@@ -44,8 +44,9 @@ body{
 
 /*inner -- center part of the page*/
 .inner{
+	padding-top: 60px;
 	padding-left: 60px;
-	padding-right: 60px
+	padding-right: 60px;
 }
 
 /*masthead -- head part of the page*/
